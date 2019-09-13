@@ -87,7 +87,7 @@ int main()
 			{
 				SetConsoleTitle("SppDB 0.1a - Inserting new data");
 				int a; cin >> a;
-				qu.push(a);
+				st.push(a);
 				cout<<"Insert complete." << '\n';
 				Sleep(2000);
 			}
